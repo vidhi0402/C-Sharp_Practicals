@@ -1,0 +1,5 @@
+C:\Users\vidhi\Assignments\SOLID Principles\Single\obj\Debug\net6.0\Single.csproj.AssemblyReference.cache
+C:\Users\vidhi\Assignments\SOLID Principles\Single\obj\Debug\net6.0\Single.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Assignments\SOLID Principles\Single\obj\Debug\net6.0\Single.AssemblyInfoInputs.cache
+C:\Users\vidhi\Assignments\SOLID Principles\Single\obj\Debug\net6.0\Single.AssemblyInfo.cs
+C:\Users\vidhi\Assignments\SOLID Principles\Single\obj\Debug\net6.0\Single.csproj.CoreCompileInputs.cache
